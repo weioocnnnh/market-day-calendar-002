@@ -1,0 +1,5 @@
+{
+  "name": "Market Day Calendar",
+  "description": "A calendar application marking 'Market Days' (街天) every 3 days starting from February 2, 2026.",
+  "requestFramePermissions": []
+}
